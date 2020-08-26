@@ -1,0 +1,4 @@
+mysql:
+  max_idle_conns:50
+  source_name:root:root@tcp(127.0.0.1:3306)/deeops?parseTime=true&charset=utf8&loc=Local
+addr: 127.0.0.1:8083
